@@ -1007,9 +1007,8 @@ button:active{
    */
 
   .container {
+    max-width:640px;
     width: 100vw;
-    overflow-x:hidden;
-    padding:0.8rem 0;
     margin-inline: auto;
   }
 
