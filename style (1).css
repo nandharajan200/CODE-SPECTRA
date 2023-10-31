@@ -156,7 +156,6 @@ body {
   color: var(--gray-web);
   font-size: 1.6rem;
   line-height: 1.75;
-  overflow-x:hidden;
 }
 
 :focus-visible { outline-offset: 4px; }
