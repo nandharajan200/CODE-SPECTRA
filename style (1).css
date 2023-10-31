@@ -1000,15 +1000,16 @@ button:active{
  * responsive for large than 575px screen
  */
 
-@media (min-width: 575px) {
+@media (min-width: 640px) {
 
   /**
    * REUSED STYLE
    */
 
   .container {
-    max-width: 600px;
-    width: 100%;
+    width: 100vw;
+    overflow-x:hidden;
+    padding:0.8rem 0;
     margin-inline: auto;
   }
 
