@@ -1101,7 +1101,7 @@ button:active{
    * REUSED STYLE
    */
 
-  .container { max-width: 720px; }
+  .container { max-width: 768px; }
 
   .btn { padding: 15px 30px; }
 
@@ -1157,7 +1157,7 @@ button:active{
    * ABOUT
    */
 
-  .about { padding-block-start: 50px; }
+  .about { padding-block-start: 30px; }
 
   .about-banner {
     padding: 60px;
@@ -1219,7 +1219,7 @@ button:active{
    * REUSED STYLE
    */
 
-  .container { max-width: 960px; }
+  .container { max-width: 992px; }
 
   .grid-list { grid-template-columns: repeat(4, 1fr); }
 
