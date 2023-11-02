@@ -455,6 +455,8 @@ right:50px;}
   grid-template-columns: 1fr 0.8fr;
   align-items: flex-start;
   gap: 30px;
+  position: relative;
+  right:40px;
 }
 
 .hero-banner .img-holder.two {
