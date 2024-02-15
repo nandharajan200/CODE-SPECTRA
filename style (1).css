@@ -559,7 +559,7 @@ right:50px;}
 
   60% { transform: translateY(-15px); }
 }
-. img{
+.img{
   display: block;
   bottom: -100px;
   left: -60px;
@@ -747,8 +747,12 @@ button:active{
 
 .video-banner {
   position: relative;
-  border-top-right-radius: 80px;
-  border-bottom-left-radius: 120px;
+  border-top-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+}
+.video-card iframe{
+  position:relative;
+  left:10px;
 }
 
 .video .play-btn {
@@ -775,6 +779,7 @@ button:active{
   inset: 0;
   background-color: var(--black_30);
 }
+
 
 
 
